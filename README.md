@@ -2,7 +2,6 @@
 
 - 🔭 Procurando uma oportunidade de emprego
 - 🌱 Estudando Python e Front-end (Next.js e HTML/CSS)
-- 
 
 <div align="center">
   <a href="https://github.com/andrewwsregli">
