@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Andrews Regli
 
 - 🔭 Procurando uma oportunidade de emprego
-- 🌱 Estudando Python e Front-end (Next.js e HTML/CSS)
+- 🌱 Estudando Python e Front-end (HTML/CSS/JavaScript)
 
 <div align="center">
   <a href="https://github.com/andrewsregli">
